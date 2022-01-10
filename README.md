@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Imtiyaz2007
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Perl
 - 💞️ I’m looking to collaborate on java package development
 
 <!---
