@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imtiyaz2007
 - 👀 I’m interested in Cybersecurity
-- 💞️ I’m looking to collaborate on java package development
+- 💞️ I’m looking to collaborate on application development and VSCode Snippet development
 
 <!---
 Imtiyaz2007/Imtiyaz2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
